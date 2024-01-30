@@ -1,0 +1,6 @@
+image1.jpg: A cat sitting on a window sill
+image2.jpg: A group of people playing soccer in a field
+image3.jpg: A close-up of colorful flowers in a garden
+image4.jpg: A busy city street with tall buildings and traffic
+image5.jpg: A person riding a bicycle along a coastal road
+...
